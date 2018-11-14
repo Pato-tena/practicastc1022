@@ -1,0 +1,5 @@
+Equipo mergas
+Patricio Tena, Daniel Caparroso, Francisco Acuña, Hector Quinde, Arturo Sosa
+
+Primero fue un analisas del caso de facebbok (leak de datos)
+La segunda fue se analizar el reglamento y codigo de etica de tecnologias computacionales
